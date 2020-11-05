@@ -1,3 +1,3 @@
 # TSN_map
 
-# trying to save from geoio.js
+saving from geojson.is
