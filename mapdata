@@ -1,0 +1,181 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#b32428",
+        "marker-size": "small",
+        "marker-label": "Cambridge, UK",
+        "label": "",
+        "loc": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.121817,
+          52.05249047600099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#b32428",
+        "marker-size": "small",
+        "marker-label": "Singapore",
+        "label": "Singapore",
+        "loc": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.865191,
+          1.334547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#b32428",
+        "marker-size": "small",
+        "marker-label": "Berkeley, CA (San Francisco Bay Area)",
+        "label": "",
+        "loc": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.05535888671875,
+          37.34286730373346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#b32428",
+        "marker-size": "small",
+        "marker-label": "Charlottesville, VA",
+        "label": "",
+        "loc": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.49456787109375,
+          38.03457159374112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#b32428",
+        "marker-size": "small",
+        "marker-label": "Hungary",
+        "label": "",
+        "loc": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.995361328125,
+          47.5394554474239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#b32428",
+        "marker-size": "small",
+        "marker-label": "London",
+        "label": "",
+        "loc": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.13,
+          51.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#b32428",
+        "marker-size": "small",
+        "marker-label": "Horsham, UK",
+        "label": "",
+        "loc": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.33,
+          51.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#b32428",
+        "marker-size": "small",
+        "marker-label": "Denver, CO",
+        "label": "",
+        "loc": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.94140625,
+          39.027718840211605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b32428",
+        "marker-size": "small",
+        "marker-label": "Godalming, UK",
+        "label": "UK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6135177612304688,
+          51.18536885176535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b32428",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "marker-label": "Cagnes sur Mer, Fr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.15381622314453,
+          43.66054501387546
+        ]
+      }
+    }
+  ]
+}
